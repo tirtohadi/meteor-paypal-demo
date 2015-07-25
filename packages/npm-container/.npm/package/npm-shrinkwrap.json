@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "paypal-ec": {
+      "version": "0.2.6"
+    }
+  }
+}
